@@ -12,7 +12,7 @@ import { SelectList } from "react-native-dropdown-select-list";
 import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
-import { RootStackParamList } from "./types"; // import จากไฟล์ types.ts
+import { RootStackParamList } from "./types";
 
 type NavigationProp = NativeStackNavigationProp<RootStackParamList, "Home">;
 
