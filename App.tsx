@@ -165,7 +165,7 @@ const styles = StyleSheet.create({
     left: 20,
     right: 20,
     backgroundColor: "#313F7E",
-    padding: 16,
+    padding: 10,
     flexDirection: "row",
     justifyContent: "space-evenly",
     borderRadius: 100,
@@ -190,8 +190,8 @@ const styles = StyleSheet.create({
     marginHorizontal: 5,
   },
   icon: {
-    width: 30,
-    height: 30,
+    width: 35,
+    height: 35,
     resizeMode: "contain",
   },
   icons: {
